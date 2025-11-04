@@ -33,44 +33,8 @@ Nossos objetivos principais são:
 
 ```
 sustentabilidade_digital/
-├── artigos/          # Artigos e análises originais
-├── pesquisas/        # Pesquisas e estudos de caso
-├── recursos/         # Links, referências e materiais complementares
-└── projetos/         # Documentação de projetos práticos
 ```
-
-## 🤝 Como Contribuir
-
-Contribuições são bem-vindas! Se você deseja colaborar com artigos, pesquisas ou sugestões:
-
-1. Faça uma cópia do repositório
-2. Crie um ramo para sua contribuição (`git checkout -b feature/nova-contribuicao`)
-3. Adicione seu conteúdo seguindo a estrutura do repositório
-4. Registre suas mudanças (`git commit -m 'Adiciona novo artigo sobre...'`)
-5. Envie para o ramo (`git push origin feature/nova-contribuicao`)
-6. Abra uma Solicitação de Integração
-
-## 📚 Temas de Interesse
-
-- Computação Verde e eficiência energética
-- Economia circular na indústria de tecnologia
-- Centros de dados sustentáveis
-- Desenvolvimento de software sustentável
-- Internet das Coisas para monitoramento ambiental
-- Inteligência Artificial aplicada à sustentabilidade
-- Cadeia de blocos e sustentabilidade
-- Lixo eletrônico e reciclagem de eletrônicos
-- Energias renováveis e tecnologia
-- Cidades inteligentes e urbanismo sustentável
 
 ## 📄 Licença
 
 Este projeto está licenciado sob a GNU Affero General Public License v3.0 - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 📞 Contato
-
-Para dúvidas, sugestões ou colaborações, entre em contato através das issues do GitHub.
-
----
-
-**Juntos por um futuro tecnológico mais sustentável! 🌍**
