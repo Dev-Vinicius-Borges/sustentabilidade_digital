@@ -35,6 +35,38 @@ Nossos objetivos principais são:
 sustentabilidade_digital/
 ```
 
+## 🌿 Branches do Repositório
+
+Este repositório contém diferentes branches, cada uma dedicada a um tema específico de sustentabilidade digital:
+
+### Branch Principal
+
+- **`main`** - Branch principal do repositório
+  - **Como acessar**: `git checkout main`
+  - **Descrição**: Contém a estrutura base do projeto e a documentação geral
+
+### Branches Temáticas
+
+- **`esg_e_responsabilidade_tech`** - ESG e Responsabilidade Tech
+  - **Como acessar**: `git checkout esg_e_responsabilidade_tech`
+  - **Descrição**: Conteúdo sobre ESG (Environmental, Social, and Governance) e responsabilidade tecnológica
+
+- **`green_it_e_lixo_eletronico`** - Green IT e Lixo Eletrônico
+  - **Como acessar**: `git checkout green_it_e_lixo_eletronico`
+  - **Descrição**: Pesquisas sobre TI Verde e gestão de resíduos eletrônicos
+
+- **`pegada_energetica_digital`** - Pegada Energética Digital
+  - **Como acessar**: `git checkout pegada_energetica_digital`
+  - **Descrição**: Estudos sobre consumo energético e impacto ambiental das tecnologias digitais
+
+- **`software_para_o_bem`** - Software para o Bem
+  - **Como acessar**: `git checkout software_para_o_bem`
+  - **Descrição**: Projetos e análises de software desenvolvido para causas sociais e ambientais
+
+- **`readme-automation`** - Automação de README
+  - **Como acessar**: `git checkout readme-automation`
+  - **Descrição**: Branch dedicada à automação e melhorias na documentação do projeto
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a GNU Affero General Public License v3.0 - veja o arquivo [LICENSE](LICENSE) para detalhes.
