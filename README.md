@@ -1,72 +1,149 @@
 # Sustentabilidade Digital 🌱💻
 
-Um repositório de conhecimento online que investiga a relação entre tecnologia e sustentabilidade.
+> Nosso foco: entender impactos, mapear desafios e compartilhar soluções práticas para um futuro digital mais sustentável.
 
-## 📖 Sobre o Projeto
+## 📖 Sobre o projeto
 
-Este repositório serve como um reservatório de artigos e pesquisas que relacionam a tecnologia com a sustentabilidade. Nosso objetivo é documentar, analisar e compartilhar conhecimento sobre como a tecnologia pode contribuir para um futuro mais sustentável, ao mesmo tempo em que identificamos os desafios ambientais da nossa área.
+Este repositório reúne artigos, estudos, referências e análises sobre tecnologia e sustentabilidade. Documentamos boas práticas, investigamos impactos (energia, carbono, resíduos, governança) e destacamos soluções que já funcionam no mundo real.
 
-## 🔍 COMO
+Objetivos principais:
+- Conscientizar sobre o impacto ambiental das tecnologias digitais
+- Mapear desafios (consumo energético, e-lixo, pegada de carbono, etc.)
+- Evidenciar soluções e inovações
+- Inspirar práticas mais sustentáveis em times e organizações
 
-**Pesquisando, analisando casos reais e produzindo conteúdo original em grupo.**
+---
 
-Nossa metodologia de trabalho se baseia em:
+## 🎯 Por que existe
 
-- **Pesquisa Colaborativa**: Investigação de casos reais, estudos acadêmicos e práticas de mercado que demonstrem a intersecção entre tecnologia e sustentabilidade
-- **Análise Crítica**: Avaliação aprofundada de projetos, tecnologias e iniciativas que promovem sustentabilidade
-- **Produção de Conteúdo**: Criação de artigos, análises e documentação original desenvolvida em grupo
-- **Compartilhamento de Conhecimento**: Disponibilização pública dos resultados de nossas pesquisas para beneficiar a comunidade
+Porque tecnologia transforma o mundo — e, com responsabilidade, pode transformá-lo para melhor. Queremos amplificar iniciativas que reduzem impacto e gerar referências úteis para quem constrói produtos, infraestrutura e políticas digitais.
 
-## 🎯 POR QUÊ
+---
 
-**Para identificar os desafios ambientais da nossa área e, principalmente, destacar as soluções e inovações que podemos criar.**
+## 🛠️ Como trabalhamos
 
-Nossos objetivos principais são:
+Metodologia simples, colaborativa e contínua:
 
-- **Conscientização**: Aumentar a compreensão sobre o impacto ambiental das tecnologias digitais
-- **Identificação de Desafios**: Mapear os principais problemas ambientais relacionados à tecnologia (consumo energético, resíduos eletrônicos, pegada de carbono, etc.)
-- **Soluções Inovadoras**: Destacar e documentar soluções tecnológicas que contribuem para a sustentabilidade
-- **Inspiração**: Motivar profissionais de tecnologia a desenvolver e implementar práticas mais sustentáveis
-- **Impacto Positivo**: Contribuir para um ecossistema tecnológico mais consciente e responsável ambientalmente
+- Pesquisa colaborativa
+  - Casos reais, estudos acadêmicos e práticas de mercado
+- Análise crítica
+  - Avaliação de impactos, benefícios e trade-offs
+- Produção de conteúdo
+  - Artigos originais, guias práticos e sínteses
+- Compartilhamento aberto
+  - Todo o material fica público para a comunidade
 
-## 📂 Estrutura do Repositório
+Dica: priorizamos objetividade, fontes confiáveis e exemplos aplicáveis.
+
+---
+
+## 🚀 Como começar
+
+Clone o repositório e explore as branches temáticas:
+
+```bash
+# Clone
+git clone https://github.com/<owner>/<repo>.git
+cd <repo>
+
+# Atualize as referências
+git fetch --all --prune
+
+# Entre na branch principal
+git checkout main
+```
+
+Para navegar entre temas:
+
+```bash
+# ESG e Responsabilidade Tech
+git checkout esg_e_responsabilidade_tech
+
+# Green IT e Lixo Eletrônico
+git checkout green_it_e_lixo_eletronico
+
+# Pegada Energética Digital
+git checkout pegada_energetica_digital
+
+# Software para o Bem
+git checkout software_para_o_bem
+```
+
+Criando um novo artigo (exemplo de fluxo):
+
+```bash
+# Crie uma branch a partir do tema correspondente
+git checkout -b feat/artigo-mineracao-de-dados-sustentavel pegada_energetica_digital
+
+# Adicione seu arquivo (ex.: em artigos/pegada-energetica/)
+
+# Edite, salve e commit
+git add .
+git commit -m "docs(artigo): mineração de dados eficiente em energia"
+
+# Publique sua branch
+git push -u origin feat/artigo-mineracao-de-dados-sustentavel
+```
+
+Abra um Pull Request descrevendo objetivo, fontes e resumo do impacto.
+
+---
+
+## 📂 Estrutura do repositório
+
+Exemplo de organização sugerida (ajuste conforme o crescimento do projeto):
 
 ```
-sustentabilidade_digital/
+... Em andamento...
 ```
 
-## 🌿 Branches do Repositório
+---
 
-Este repositório contém diferentes branches, cada uma dedicada a um tema específico de sustentabilidade digital:
+## 🌿 Branches do repositório
 
-### Branch Principal
+Tabela de temas e comandos rápidos:
 
-- **`main`** - Branch principal do repositório
-  - **Como acessar**: `git checkout main`
-  - **Descrição**: Contém a estrutura base do projeto e a documentação geral
+| Branch                         | Tema                         | Como acessar                               | Descrição                                                                 |
+|-------------------------------|------------------------------|--------------------------------------------|---------------------------------------------------------------------------|
+| `main`                        | Principal                    | `git checkout main`                        | Estrutura base do projeto e documentação geral                            |
+| `esg_e_responsabilidade_tech` | ESG e Responsabilidade Tech  | `git checkout esg_e_responsabilidade_tech` | Governança, responsabilidade tecnológica e indicadores ESG                |
+| `green_it_e_lixo_eletronico`  | Green IT e Lixo Eletrônico   | `git checkout green_it_e_lixo_eletronico`  | TI Verde, eficiência de hardware, ciclo de vida e gestão de e-lixo       |
+| `pegada_energetica_digital`   | Pegada Energética Digital    | `git checkout pegada_energetica_digital`   | Consumo energético, emissões e otimizações em sistemas e infra            |
+| `software_para_o_bem`         | Software para o Bem          | `git checkout software_para_o_bem`         | Projetos e análises de software com impacto social e ambiental positivo   |
 
-### Branches Temáticas
+Dicas:
+- Prefira criar branches de trabalho a partir do tema relacionado.
+- Nomeie branches com prefixos claros: `feat/`, `fix/`, `docs/`, `chore/`.
 
-- **`esg_e_responsabilidade_tech`** - ESG e Responsabilidade Tech
-  - **Como acessar**: `git checkout esg_e_responsabilidade_tech`
-  - **Descrição**: Conteúdo sobre ESG (Environmental, Social, and Governance) e responsabilidade tecnológica
+---
 
-- **`green_it_e_lixo_eletronico`** - Green IT e Lixo Eletrônico
-  - **Como acessar**: `git checkout green_it_e_lixo_eletronico`
-  - **Descrição**: Pesquisas sobre TI Verde e gestão de resíduos eletrônicos
+## 🧭 Padrões de conteúdo
 
-- **`pegada_energetica_digital`** - Pegada Energética Digital
-  - **Como acessar**: `git checkout pegada_energetica_digital`
-  - **Descrição**: Estudos sobre consumo energético e impacto ambiental das tecnologias digitais
+Para manter consistência e facilitar navegação:
 
-- **`software_para_o_bem`** - Software para o Bem
-  - **Como acessar**: `git checkout software_para_o_bem`
-  - **Descrição**: Projetos e análises de software desenvolvido para causas sociais e ambientais
+- Nome de arquivos
+  - `kebab-case` (minúsculas e hífens), ex.: `guia-otimizacao-energia.md`
+- Estrutura mínima de um artigo
+  - Título, contexto, problema, abordagem/solução, resultados (se houver), referências
+- Metadados opcionais (no topo do arquivo)
+  - Use um frontmatter simples:
 
-- **`readme-automation`** - Automação de README
-  - **Como acessar**: `git checkout readme-automation`
-  - **Descrição**: Branch dedicada à automação e melhorias na documentação do projeto
+
+## Comandos úteis:
+
+```bash
+# Atualizar sua base local
+git checkout main
+git pull origin main
+
+# Rebase da sua branch de feature
+git checkout feat/sua-branch
+git rebase main
+```
+---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a GNU Affero General Public License v3.0 - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a GNU Affero General Public License v3.0 — veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+Se usar o conteúdo, referencie a fonte. Se melhorar, compartilhe de volta. 🌍✨
