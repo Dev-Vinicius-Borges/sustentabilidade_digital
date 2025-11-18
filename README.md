@@ -73,7 +73,7 @@ Criando um novo artigo (exemplo de fluxo):
 
 ```bash
 # Crie uma branch a partir do tema correspondente
-git checkout -b feat/artigo-mineracao-de-dados-sustentavel pegada_energetica_digital
+git checkout -b feat--artigo-mineracao-de-dados-sustentavel pegada_energetica_digital
 
 # Adicione seu arquivo (ex.: em artigos/pegada-energetica/)
 
