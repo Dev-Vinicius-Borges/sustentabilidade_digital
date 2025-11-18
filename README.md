@@ -57,16 +57,16 @@ Para navegar entre temas:
 
 ```bash
 # ESG e Responsabilidade Tech
-git checkout esg_e_responsabilidade_tech
+git checkout esg-e-responsabilidade-tech
 
 # Green IT e Lixo Eletrônico
-git checkout green_it_e_lixo_eletronico
+git checkout green-it-e-lixo-eletronico
 
 # Pegada Energética Digital
-git checkout pegada_energetica_digital
+git checkout pegada-energetica-digital
 
 # Software para o Bem
-git checkout software_para_o_bem
+git checkout software-para-o-bem
 ```
 
 Criando um novo artigo (exemplo de fluxo):
